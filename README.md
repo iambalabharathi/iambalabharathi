@@ -4,7 +4,7 @@
 
 Welcome to my space in GitHub 🎉
 
-I'm a software engineer with 7 years of Industry experience in developing & testing. I like new challenges, and I love to help people solve their challenges with my knowledge.
+I'm a software engineer with 7+ years of Industry experience in developing & testing. I like new challenges, and I love to help people solve their challenges with my knowledge.
 
 <a href="https://www.linkedin.com/in/balabharathijayaraman" target="blank">
   <img align="left" alt="LinkedIn Profile Link" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
