@@ -1,6 +1,6 @@
 # **Hello, I'm Bala 👋 🧑‍💻**
 
-## Dev engineer | Web & Mobile Apps
+## Dev engineer | Web & Mobile Apps 
 
 Welcome to my space in GitHub 🎉
 
@@ -24,3 +24,4 @@ I'm a software engineer with 7+ years of Industry experience in developing & tes
 <a href="https://www.facebook.com/noisyboyelan" target="blank">
   <img align="left" alt="Facebook Profile Link" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+
