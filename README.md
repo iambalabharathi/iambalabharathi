@@ -15,7 +15,7 @@ I like new challenges, and I love to help people solve their challenges with my 
 <a href="https://twitter.com/balabharathijay">
   <img align="left" alt="Twitter Profile Link" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/balabharathi.jayaraman/">
+<a href="https://www.instagram.com/balabharathijayaraman/">
   <img align="left" alt="Facebook Profile Link" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/balabharathijayaraman">
