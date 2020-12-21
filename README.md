@@ -1,4 +1,4 @@
-# **Hello, I'm Bala 👋 🧑‍💻**
+# **Hello, I'm Bala 👋**
 
 ## Dev engineer | Web & Mobile Apps 
 
