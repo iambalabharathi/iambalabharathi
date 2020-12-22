@@ -4,7 +4,7 @@
 
 Welcome to my space in GitHub 🎉
 
-I like new challenges, and I love to help people solve their challenges with my knowledge.
+I like new challenges, and I love to help people solve with my knowledge.
 
 <a href="https://www.linkedin.com/in/balabharathijayaraman">
   <img align="left" alt="LinkedIn Profile Link" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
