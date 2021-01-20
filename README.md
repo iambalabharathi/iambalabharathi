@@ -1,6 +1,6 @@
 # **Hello, I'm Bala 👋**
 
-## Dev engineer | Web & Mobile Apps 
+## Senior Automation Developer | API, Web & Mobile Apps 
 
 Welcome to my space in GitHub 🎉
 
