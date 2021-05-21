@@ -3,5 +3,3 @@
 ## Senior Automation Developer
 
 Welcome to my space in GitHub 🎉
-
-I like new challenges, and I love to help.
