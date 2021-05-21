@@ -1,4 +1,4 @@
-# **Hello/Hallo, I'm Bala 👋**
+# **Hello 👋 I'm Bala**
 
 ## Senior Automation Developer
 
