@@ -3,5 +3,5 @@ module.exports = {
     siteUrl: "https://www.yourdomain.tld",
     title: "iambalabharathi",
   },
-  plugins: ["gatsby-plugin-netlify-cms"],
+  plugins: ["gatsby-plugin-netlify-cms", "gatsby-plugin-image", "gatsby-plugin-sharp"],
 };
