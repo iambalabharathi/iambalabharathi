@@ -1,8 +1,8 @@
 # **Hello, I'm Bala** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## Senior Automation Developer
+## Principal Automation Developer
 
-A highly competent and results-oriented software professional with over 7 years industry experience. 
+A highly competent and results-oriented software professional with over 8 years industry experience. 
 </br>
 Well versed in writing **high performance test automation frameworks** using Selenium, Appium, TestNG, Cucumber libraries.</p>
 
